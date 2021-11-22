@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">答题程序</string>
+    <string name="correct">对</string>
+    <string name="wrong">错</string>
+    <string name="get_the_average">查看平均分</string>
+    <string name="reset_the_saved_result">重置保存的结果</string>
+
+    <string name="question1">多伦多是安大略的省会城市</string>
+    <string name="question2">蒙特利尔是魁北克的省会城市</string>
+    <string name="question3">北京是中国的首都</string>
+    <string name="question4">华盛顿是加拿大的首都</string>
+    <string name="answerCorrect">正确.</string>
+    <string name="answerWrong">错误.</string>
+    <string name="thanksTitle">感谢你的参与</string>
+    <string name="yourScore">你的分数是 </string>
+    <string name="ignore">忽略</string>
+    <string name="save">保存</string>
+    <string name="yourCorrectAnswer">你的正确答案数量为 </string>
+    <string name="in"> 于 </string>
+    <string name="attempts"> 次尝试中</string>
+    <string name="ok">好</string>
+</resources>

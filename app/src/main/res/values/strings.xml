@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Quiz Application</string>
+    <string name="correct">True</string>
+    <string name="wrong">False</string>
+    <string name="get_the_average">Get The Average</string>
+    <string name="reset_the_saved_result">Reset the saved Result</string>
+    <string name="question1">Toronto is the capital city of Ontario</string>
+    <string name="question2">Montreal is the capital city of Quebec</string>
+    <string name="question3">Beijing is the capital city of China</string>
+    <string name="question4">Washington is the capital city of Canada</string>
+    <string name="answerCorrect">Correct.</string>
+    <string name="answerWrong">Wrong.</string>
+    <string name="thanksTitle">Thank You for playing</string>
+    <string name="yourScore">Your score is </string>
+    <string name="ignore">IGNORE</string>
+    <string name="save">SAVE</string>
+    <string name="yourCorrectAnswer">Your correct answers are "</string>
+    <string name="in">" in "</string>
+    <string name="attempts">" attempts</string>
+    <string name="ok">OK</string>
+
+</resources>
